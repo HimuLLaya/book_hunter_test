@@ -23,12 +23,7 @@
     <main class="container row">
       <div class="col m8">
         <div>
-          <h2>Latest Books</h2>
-          <ul>
-            <li><a href="#">Title</a></li>
-            <li><a href="#">Title</a></li>
-            <li><a href="#">Title</a></li>
-          </ul>
+         <?php echo $content ?>
         </div>
 
         <div class="hide">
